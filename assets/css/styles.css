@@ -113,7 +113,7 @@ HEADER SECTION
 
 .hero {
     width: 100%;
-    background-image: url('/assets/img/mini_3200x2000_Messi_evolucio.jpeg');
+    background-image: url('https://raw.githubusercontent.com/frupreneur/LM10-30/main/assets/img/mini_3200x2000_Messi_evolucio.jpeg');
     height: 40vw;
     background-repeat: no-repeat;
     background-size: cover;
@@ -292,7 +292,7 @@ FOOTER SECTION
 .footer {
     text-align: center;
     color: white;
-    background-image: url('/assets/img/43c0d8a2eb0c97fde7082254f91bd86b.jpeg');
+    background-image: url('https://raw.githubusercontent.com/frupreneur/LM10-30/main/assets/img/43c0d8a2eb0c97fde7082254f91bd86b.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
